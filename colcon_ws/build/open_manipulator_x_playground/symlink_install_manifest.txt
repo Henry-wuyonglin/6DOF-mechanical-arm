@@ -1,0 +1,16 @@
+/home/wu/colcon_ws/install/open_manipulator_x_playground/lib/open_manipulator_x_playground/hello_moveit
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/ament_index/resource_index/package_run_dependencies/open_manipulator_x_playground
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/ament_index/resource_index/parent_prefix_path/open_manipulator_x_playground
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/environment/ament_prefix_path.sh
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/environment/ament_prefix_path.dsv
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/environment/path.sh
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/environment/path.dsv
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/local_setup.bash
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/local_setup.sh
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/local_setup.zsh
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/local_setup.dsv
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/package.dsv
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/ament_index/resource_index/packages/open_manipulator_x_playground
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/cmake/open_manipulator_x_playgroundConfig.cmake
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/cmake/open_manipulator_x_playgroundConfig-version.cmake
+/home/wu/colcon_ws/install/open_manipulator_x_playground/share/open_manipulator_x_playground/package.xml

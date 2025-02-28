@@ -1,0 +1,167 @@
+[0.009s] Invoking command in '/home/wu/colcon_ws/build/dynamixel_hardware_interface': AMENT_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/wu/colcon_ws/install/dynamixel_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/wu/colcon_ws/src/dynamixel_hardware_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wu/colcon_ws/install/dynamixel_hardware_interface
+[0.062s] -- The C compiler identification is GNU 11.4.0
+[0.121s] -- The CXX compiler identification is GNU 11.4.0
+[0.128s] -- Detecting C compiler ABI info
+[0.195s] -- Detecting C compiler ABI info - done
+[0.203s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.204s] -- Detecting C compile features
+[0.205s] -- Detecting C compile features - done
+[0.207s] -- Detecting CXX compiler ABI info
+[0.287s] -- Detecting CXX compiler ABI info - done
+[0.296s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.296s] -- Detecting CXX compile features
+[0.296s] -- Detecting CXX compile features - done
+[0.299s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.456s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.525s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.551s] -- Found hardware_interface: 2.48.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[0.590s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.595s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.604s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.617s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.635s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.850s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.853s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.880s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.919s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.922s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.933s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.935s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.941s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.949s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.955s] -- Looking for pthread.h
+[1.008s] -- Looking for pthread.h - found
+[1.008s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.057s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.058s] -- Found Threads: TRUE  
+[1.090s] -- Found realtime_tools: 2.11.0 (/opt/ros/humble/share/realtime_tools/cmake)
+[1.099s] -- Found dynamixel_sdk: 3.7.60 (/opt/ros/humble/share/dynamixel_sdk/cmake)
+[1.101s] -- Found std_srvs: 4.2.4 (/opt/ros/humble/share/std_srvs/cmake)
+[1.107s] -- Found dynamixel_interfaces: 1.0.0 (/home/wu/colcon_ws/install/dynamixel_interfaces/share/dynamixel_interfaces/cmake)
+[1.132s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.190s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.192s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.192s] -- Configured cppcheck include dirs: /home/wu/colcon_ws/src/dynamixel_hardware_interface/include
+[1.192s] -- Configured cppcheck exclude dirs and/or files: 
+[1.195s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.195s] -- Configured cpplint exclude dirs and/or files: 
+[1.196s] -- Added test 'lint_cmake' to check CMake code style
+[1.198s] -- Added test 'uncrustify' to check C / C++ code style
+[1.198s] -- Configured uncrustify additional arguments: 
+[1.199s] -- Added test 'xmllint' to check XML markup files
+[1.201s] -- Configuring done
+[1.229s] -- Generating done
+[1.233s] -- Build files have been written to: /home/wu/colcon_ws/build/dynamixel_hardware_interface
+[1.243s] Invoked command in '/home/wu/colcon_ws/build/dynamixel_hardware_interface' returned '0': AMENT_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/wu/colcon_ws/install/dynamixel_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/wu/colcon_ws/src/dynamixel_hardware_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wu/colcon_ws/install/dynamixel_hardware_interface
+[1.244s] Invoking command in '/home/wu/colcon_ws/build/dynamixel_hardware_interface': AMENT_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/wu/colcon_ws/install/dynamixel_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/wu/colcon_ws/build/dynamixel_hardware_interface -- -j12 -l12
+[1.285s] [ 50%] [32mBuilding CXX object CMakeFiles/dynamixel_hardware_interface.dir/src/dynamixel_hardware_interface.cpp.o[0m
+[1.285s] [ 75%] [32mBuilding CXX object CMakeFiles/dynamixel_hardware_interface.dir/src/dynamixel/dynamixel_info.cpp.o[0m
+[1.285s] [ 50%] [32mBuilding CXX object CMakeFiles/dynamixel_hardware_interface.dir/src/dynamixel/dynamixel.cpp.o[0m
+[2.608s] In file included from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel_info.cpp:17[m[K:
+[2.610s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:[m[K In member function ‘[01m[Kdouble dynamixel_hardware_interface::DynamixelInfo::ConvertValueRPMToVelocityRPS(uint8_t, int32_t)[m[K’:
+[2.610s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:88:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.610s]    88 |   inline double ConvertValueRPMToVelocityRPS([01;35m[Kuint8_t id[m[K, int32_t value_rpm)
+[2.610s]       |                                              [01;35m[K~~~~~~~~^~[m[K
+[2.610s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:[m[K In member function ‘[01m[Kint32_t dynamixel_hardware_interface::DynamixelInfo::ConvertVelocityRPSToValueRPM(uint8_t, double)[m[K’:
+[2.610s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:90:55:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.610s]    90 |   inline int32_t ConvertVelocityRPSToValueRPM([01;35m[Kuint8_t id[m[K, double vel_rps)
+[2.611s]       |                                               [01;35m[K~~~~~~~~^~[m[K
+[2.611s] In file included from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp:20[m[K,
+[2.611s]                  from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:17[m[K:
+[2.611s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:[m[K In member function ‘[01m[Kdouble dynamixel_hardware_interface::DynamixelInfo::ConvertValueRPMToVelocityRPS(uint8_t, int32_t)[m[K’:
+[2.611s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:88:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.611s]    88 |   inline double ConvertValueRPMToVelocityRPS([01;35m[Kuint8_t id[m[K, int32_t value_rpm)
+[2.611s]       |                                              [01;35m[K~~~~~~~~^~[m[K
+[2.611s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:[m[K In member function ‘[01m[Kint32_t dynamixel_hardware_interface::DynamixelInfo::ConvertVelocityRPSToValueRPM(uint8_t, double)[m[K’:
+[2.611s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:90:55:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.611s]    90 |   inline int32_t ConvertVelocityRPSToValueRPM([01;35m[Kuint8_t id[m[K, double vel_rps)
+[2.611s]       |                                               [01;35m[K~~~~~~~~^~[m[K
+[2.649s] In file included from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:17[m[K:
+[2.649s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp:[m[K At global scope:
+[2.649s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp:128:14:[m[K [01;31m[Kerror: [m[K‘[01m[KGroupFastSyncRead[m[K’ in namespace ‘[01m[Kdynamixel[m[K’ does not name a type; did you mean ‘[01m[KGroupSyncRead[m[K’?
+[2.649s]   128 |   dynamixel::[01;31m[KGroupFastSyncRead[m[K * group_sync_read_;
+[2.649s]       |              [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+[2.649s]       |              [32m[KGroupSyncRead[m[K
+[2.654s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp:133:14:[m[K [01;31m[Kerror: [m[K‘[01m[KGroupFastBulkRead[m[K’ in namespace ‘[01m[Kdynamixel[m[K’ does not name a type; did you mean ‘[01m[KGroupBulkRead[m[K’?
+[2.654s]   133 |   dynamixel::[01;31m[KGroupFastBulkRead[m[K * group_bulk_read_;
+[2.654s]       |              [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+[2.654s]       |              [32m[KGroupBulkRead[m[K
+[2.689s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:[m[K In member function ‘[01m[Kdynamixel_hardware_interface::DxlError dynamixel_hardware_interface::Dynamixel::SetSyncReadHandler(std::vector<unsigned char>)[m[K’:
+[2.689s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:801:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kgroup_sync_read_[m[K’ was not declared in this scope; did you mean ‘[01m[Kgroup_sync_write_[m[K’?
+[2.689s]   801 |   [01;31m[Kgroup_sync_read_[m[K =
+[2.689s]       |   [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[2.689s]       |   [32m[Kgroup_sync_write_[m[K
+[2.689s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:802:9:[m[K [01;31m[Kerror: [m[Kexpected type-specifier
+[2.689s]   802 |     new [01;31m[Kdynamixel[m[K::GroupFastSyncRead(
+[2.689s]       |         [01;31m[K^~~~~~~~~[m[K
+[2.701s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:[m[K In member function ‘[01m[Kdynamixel_hardware_interface::DxlError dynamixel_hardware_interface::Dynamixel::GetDxlValueFromSyncRead()[m[K’:
+[2.701s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:819:25:[m[K [01;31m[Kerror: [m[K‘[01m[Kgroup_sync_read_[m[K’ was not declared in this scope; did you mean ‘[01m[Kgroup_sync_write_[m[K’?
+[2.701s]   819 |   int dxl_comm_result = [01;31m[Kgroup_sync_read_[m[K->txRxPacket();
+[2.701s]       |                         [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[2.701s]       |                         [32m[Kgroup_sync_write_[m[K
+[2.718s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:[m[K In member function ‘[01m[Kdynamixel_hardware_interface::DxlError dynamixel_hardware_interface::Dynamixel::SetBulkReadHandler(std::vector<unsigned char>)[m[K’:
+[2.718s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:920:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kgroup_bulk_read_[m[K’ was not declared in this scope; did you mean ‘[01m[Kgroup_bulk_write_[m[K’?
+[2.719s]   920 |   [01;31m[Kgroup_bulk_read_[m[K = new dynamixel::GroupFastBulkRead(port_handler_, packet_handler_);
+[2.719s]       |   [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[2.719s]       |   [32m[Kgroup_bulk_write_[m[K
+[2.719s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:920:26:[m[K [01;31m[Kerror: [m[Kexpected type-specifier
+[2.719s]   920 |   group_bulk_read_ = new [01;31m[Kdynamixel[m[K::GroupFastBulkRead(port_handler_, packet_handler_);
+[2.719s]       |                          [01;31m[K^~~~~~~~~[m[K
+[2.732s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:[m[K In member function ‘[01m[Kdynamixel_hardware_interface::DxlError dynamixel_hardware_interface::Dynamixel::GetDxlValueFromBulkRead()[m[K’:
+[2.732s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:941:25:[m[K [01;31m[Kerror: [m[K‘[01m[Kgroup_bulk_read_[m[K’ was not declared in this scope; did you mean ‘[01m[Kgroup_bulk_write_[m[K’?
+[2.732s]   941 |   int dxl_comm_result = [01;31m[Kgroup_bulk_read_[m[K->txRxPacket();
+[2.732s]       |                         [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[2.732s]       |                         [32m[Kgroup_bulk_write_[m[K
+[2.977s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:[m[K In static member function ‘[01m[Kstatic std::string dynamixel_hardware_interface::Dynamixel::DxlErrorToString(dynamixel_hardware_interface::DxlError)[m[K’:
+[2.977s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:637:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreturn-type-Wreturn-type]8;;[m[K]
+[2.977s]   637 | [01;35m[K}[m[K
+[2.977s]       | [01;35m[K^[m[K
+[3.000s] gmake[2]: *** [CMakeFiles/dynamixel_hardware_interface.dir/build.make:104：CMakeFiles/dynamixel_hardware_interface.dir/src/dynamixel/dynamixel.cpp.o] 错误 1
+[3.001s] gmake[2]: *** 正在等待未完成的任务....
+[4.127s] In file included from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp:20[m[K,
+[4.127s]                  from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel_hardware_interface.hpp:34[m[K,
+[4.127s]                  from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:17[m[K:
+[4.127s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:[m[K In member function ‘[01m[Kdouble dynamixel_hardware_interface::DynamixelInfo::ConvertValueRPMToVelocityRPS(uint8_t, int32_t)[m[K’:
+[4.127s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:88:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[4.127s]    88 |   inline double ConvertValueRPMToVelocityRPS([01;35m[Kuint8_t id[m[K, int32_t value_rpm)
+[4.127s]       |                                              [01;35m[K~~~~~~~~^~[m[K
+[4.127s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:[m[K In member function ‘[01m[Kint32_t dynamixel_hardware_interface::DynamixelInfo::ConvertVelocityRPSToValueRPM(uint8_t, double)[m[K’:
+[4.127s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:90:55:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[4.127s]    90 |   inline int32_t ConvertVelocityRPSToValueRPM([01;35m[Kuint8_t id[m[K, double vel_rps)
+[4.127s]       |                                               [01;35m[K~~~~~~~~^~[m[K
+[4.149s] In file included from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel_hardware_interface.hpp:34[m[K,
+[4.150s]                  from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:17[m[K:
+[4.150s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp:[m[K At global scope:
+[4.150s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp:128:14:[m[K [01;31m[Kerror: [m[K‘[01m[KGroupFastSyncRead[m[K’ in namespace ‘[01m[Kdynamixel[m[K’ does not name a type; did you mean ‘[01m[KGroupSyncRead[m[K’?
+[4.150s]   128 |   dynamixel::[01;31m[KGroupFastSyncRead[m[K * group_sync_read_;
+[4.150s]       |              [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+[4.150s]       |              [32m[KGroupSyncRead[m[K
+[4.154s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp:133:14:[m[K [01;31m[Kerror: [m[K‘[01m[KGroupFastBulkRead[m[K’ in namespace ‘[01m[Kdynamixel[m[K’ does not name a type; did you mean ‘[01m[KGroupBulkRead[m[K’?
+[4.154s]   133 |   dynamixel::[01;31m[KGroupFastBulkRead[m[K * group_bulk_read_;
+[4.154s]       |              [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+[4.154s]       |              [32m[KGroupBulkRead[m[K
+[4.497s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::CallbackReturn dynamixel_hardware_interface::DynamixelHardware::on_activate(const rclcpp_lifecycle::State&)[m[K’:
+[4.497s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:337:35:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kprevious_state[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[4.497s]   337 |   [01;35m[Kconst rclcpp_lifecycle::State & previous_state[m[K)
+[4.497s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[4.497s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::CallbackReturn dynamixel_hardware_interface::DynamixelHardware::on_deactivate(const rclcpp_lifecycle::State&)[m[K’:
+[4.497s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:343:35:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kprevious_state[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[4.497s]   343 |   [01;35m[Kconst rclcpp_lifecycle::State & previous_state[m[K)
+[4.497s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[4.501s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::return_type dynamixel_hardware_interface::DynamixelHardware::read(const rclcpp::Time&, const rclcpp::Duration&)[m[K’:
+[4.501s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:397:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktime[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[4.501s]   397 |   [01;35m[Kconst rclcpp::Time & time[m[K, const rclcpp::Duration & period)
+[4.501s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[4.502s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::return_type dynamixel_hardware_interface::DynamixelHardware::write(const rclcpp::Time&, const rclcpp::Duration&)[m[K’:
+[4.502s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:459:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktime[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[4.502s]   459 |   [01;35m[Kconst rclcpp::Time & time[m[K, const rclcpp::Duration & period)
+[4.502s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[4.533s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:[m[K In member function ‘[01m[Kvoid dynamixel_hardware_interface::DynamixelHardware::reboot_dxl_srv_callback(std::shared_ptr<dynamixel_interfaces::srv::RebootDxl_Request_<std::allocator<void> > >, std::shared_ptr<dynamixel_interfaces::srv::RebootDxl_Response_<std::allocator<void> > >)[m[K’:
+[4.533s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:956:72:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[4.533s]   956 | [01;35m[Kstd::shared_ptr<dynamixel_interfaces::srv::RebootDxl::Request> request[m[K,
+[4.533s]       | [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[4.533s] 
+[5.751s] gmake[2]: *** [CMakeFiles/dynamixel_hardware_interface.dir/build.make:76：CMakeFiles/dynamixel_hardware_interface.dir/src/dynamixel_hardware_interface.cpp.o] 错误 1
+[5.751s] gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/dynamixel_hardware_interface.dir/all] 错误 2
+[5.752s] gmake: *** [Makefile:146：all] 错误 2
+[5.753s] Invoked command in '/home/wu/colcon_ws/build/dynamixel_hardware_interface' returned '2': AMENT_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/wu/colcon_ws/install/dynamixel_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/wu/colcon_ws/build/dynamixel_hardware_interface -- -j12 -l12

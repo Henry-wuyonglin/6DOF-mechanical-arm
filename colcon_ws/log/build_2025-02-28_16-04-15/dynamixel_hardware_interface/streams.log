@@ -1,0 +1,181 @@
+[0.005s] Invoking command in '/home/wu/colcon_ws/build/dynamixel_hardware_interface': CMAKE_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:/home/wu/colcon_ws/install/open_manipulator:/home/wu/colcon_ws/install/open_manipulator_x_teleop:/home/wu/colcon_ws/install/open_manipulator_x_playground:/home/wu/colcon_ws/install/open_manipulator_x_moveit_config:/home/wu/colcon_ws/install/open_manipulator_x_gui:/home/wu/colcon_ws/install/open_manipulator_x_bringup:/home/wu/colcon_ws/install/open_manipulator_x_description:/opt/ros/humble LD_LIBRARY_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces/lib:/home/wu/colcon_ws/install/open_manipulator_x_gui/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins /usr/bin/cmake /home/wu/colcon_ws/src/dynamixel_hardware_interface -DCMAKE_INSTALL_PREFIX=/home/wu/colcon_ws/install/dynamixel_hardware_interface
+[0.013s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.086s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.091s] -- Found hardware_interface: 2.48.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[0.107s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.108s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.112s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.118s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.125s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.227s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.228s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.239s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.245s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.254s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.259s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.265s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.293s] -- Found realtime_tools: 2.11.0 (/opt/ros/humble/share/realtime_tools/cmake)
+[0.299s] -- Found dynamixel_sdk: 3.7.60 (/opt/ros/humble/share/dynamixel_sdk/cmake)
+[0.300s] -- Found std_srvs: 4.2.4 (/opt/ros/humble/share/std_srvs/cmake)
+[0.305s] -- Found dynamixel_interfaces: 1.0.0 (/home/wu/colcon_ws/install/dynamixel_interfaces/share/dynamixel_interfaces/cmake)
+[0.326s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.369s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.371s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.371s] -- Configured cppcheck include dirs: /home/wu/colcon_ws/src/dynamixel_hardware_interface/include
+[0.371s] -- Configured cppcheck exclude dirs and/or files: 
+[0.373s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.373s] -- Configured cpplint exclude dirs and/or files: 
+[0.374s] -- Added test 'lint_cmake' to check CMake code style
+[0.376s] -- Added test 'uncrustify' to check C / C++ code style
+[0.376s] -- Configured uncrustify additional arguments: 
+[0.376s] -- Added test 'xmllint' to check XML markup files
+[0.378s] -- Configuring done
+[0.392s] -- Generating done
+[0.395s] -- Build files have been written to: /home/wu/colcon_ws/build/dynamixel_hardware_interface
+[0.400s] Invoked command in '/home/wu/colcon_ws/build/dynamixel_hardware_interface' returned '0': CMAKE_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:/home/wu/colcon_ws/install/open_manipulator:/home/wu/colcon_ws/install/open_manipulator_x_teleop:/home/wu/colcon_ws/install/open_manipulator_x_playground:/home/wu/colcon_ws/install/open_manipulator_x_moveit_config:/home/wu/colcon_ws/install/open_manipulator_x_gui:/home/wu/colcon_ws/install/open_manipulator_x_bringup:/home/wu/colcon_ws/install/open_manipulator_x_description:/opt/ros/humble LD_LIBRARY_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces/lib:/home/wu/colcon_ws/install/open_manipulator_x_gui/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins /usr/bin/cmake /home/wu/colcon_ws/src/dynamixel_hardware_interface -DCMAKE_INSTALL_PREFIX=/home/wu/colcon_ws/install/dynamixel_hardware_interface
+[0.401s] Invoking command in '/home/wu/colcon_ws/build/dynamixel_hardware_interface': CMAKE_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:/home/wu/colcon_ws/install/open_manipulator:/home/wu/colcon_ws/install/open_manipulator_x_teleop:/home/wu/colcon_ws/install/open_manipulator_x_playground:/home/wu/colcon_ws/install/open_manipulator_x_moveit_config:/home/wu/colcon_ws/install/open_manipulator_x_gui:/home/wu/colcon_ws/install/open_manipulator_x_bringup:/home/wu/colcon_ws/install/open_manipulator_x_description:/opt/ros/humble LD_LIBRARY_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces/lib:/home/wu/colcon_ws/install/open_manipulator_x_gui/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins /usr/bin/cmake --build /home/wu/colcon_ws/build/dynamixel_hardware_interface -- -j12 -l12
+[0.425s] [35m[1mConsolidate compiler generated dependencies of target dynamixel_hardware_interface[0m
+[0.439s] [ 25%] [32mBuilding CXX object CMakeFiles/dynamixel_hardware_interface.dir/src/dynamixel_hardware_interface.cpp.o[0m
+[0.439s] [ 50%] [32mBuilding CXX object CMakeFiles/dynamixel_hardware_interface.dir/src/dynamixel/dynamixel.cpp.o[0m
+[1.120s] In file included from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp:20[m[K,
+[1.120s]                  from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:17[m[K:
+[1.120s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:[m[K In member function ‘[01m[Kdouble dynamixel_hardware_interface::DynamixelInfo::ConvertValueRPMToVelocityRPS(uint8_t, int32_t)[m[K’:
+[1.120s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:88:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[1.120s]    88 |   inline double ConvertValueRPMToVelocityRPS([01;35m[Kuint8_t id[m[K, int32_t value_rpm)
+[1.120s]       |                                              [01;35m[K~~~~~~~~^~[m[K
+[1.120s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:[m[K In member function ‘[01m[Kint32_t dynamixel_hardware_interface::DynamixelInfo::ConvertVelocityRPSToValueRPM(uint8_t, double)[m[K’:
+[1.120s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:90:55:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[1.120s]    90 |   inline int32_t ConvertVelocityRPSToValueRPM([01;35m[Kuint8_t id[m[K, double vel_rps)
+[1.120s]       |                                               [01;35m[K~~~~~~~~^~[m[K
+[1.275s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:[m[K In static member function ‘[01m[Kstatic std::string dynamixel_hardware_interface::Dynamixel::DxlErrorToString(dynamixel_hardware_interface::DxlError)[m[K’:
+[1.275s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel/dynamixel.cpp:637:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreturn-type-Wreturn-type]8;;[m[K]
+[1.275s]   637 | [01;35m[K}[m[K
+[1.275s]       | [01;35m[K^[m[K
+[2.094s] In file included from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp:20[m[K,
+[2.094s]                  from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel_hardware_interface.hpp:34[m[K,
+[2.094s]                  from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:17[m[K:
+[2.094s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:[m[K In member function ‘[01m[Kdouble dynamixel_hardware_interface::DynamixelInfo::ConvertValueRPMToVelocityRPS(uint8_t, int32_t)[m[K’:
+[2.094s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:88:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.094s]    88 |   inline double ConvertValueRPMToVelocityRPS([01;35m[Kuint8_t id[m[K, int32_t value_rpm)
+[2.094s]       |                                              [01;35m[K~~~~~~~~^~[m[K
+[2.094s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:[m[K In member function ‘[01m[Kint32_t dynamixel_hardware_interface::DynamixelInfo::ConvertVelocityRPSToValueRPM(uint8_t, double)[m[K’:
+[2.094s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp:90:55:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.094s]    90 |   inline int32_t ConvertVelocityRPSToValueRPM([01;35m[Kuint8_t id[m[K, double vel_rps)
+[2.094s]       |                                               [01;35m[K~~~~~~~~^~[m[K
+[2.133s] In file included from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel_hardware_interface.hpp:41[m[K,
+[2.133s]                  from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:17[m[K:
+[2.133s] [01m[K/opt/ros/humble/include/realtime_tools/realtime_tools/realtime_publisher.h:[m[K At global scope:
+[2.133s] [01m[K/opt/ros/humble/include/realtime_tools/realtime_tools/realtime_publisher.h:22:103:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: This header include is deprecated. Please update your code to use 'realtime_publisher.hpp' header.[m[K’
+[2.133s]    22 |   "This header include is deprecated. Please update your code to use 'realtime_publisher.hpp' header."[01;36m[K)[m[K  //NOLINT
+[2.133s]       |                                                                                                       [01;36m[K^[m[K
+[2.133s] In file included from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel_hardware_interface.hpp:42[m[K,
+[2.133s]                  from [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:17[m[K:
+[2.133s] [01m[K/opt/ros/humble/include/realtime_tools/realtime_tools/realtime_buffer.h:22:100:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: This header include is deprecated. Please update your code to use 'realtime_buffer.hpp' header.[m[K’
+[2.133s]    22 |   "This header include is deprecated. Please update your code to use 'realtime_buffer.hpp' header."[01;36m[K)[m[K  //NOLINT
+[2.133s]       |                                                                                                    [01;36m[K^[m[K
+[2.362s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::CallbackReturn dynamixel_hardware_interface::DynamixelHardware::on_activate(const rclcpp_lifecycle::State&)[m[K’:
+[2.362s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:329:35:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kprevious_state[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.362s]   329 |   [01;35m[Kconst rclcpp_lifecycle::State & previous_state[m[K)
+[2.362s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[2.362s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::CallbackReturn dynamixel_hardware_interface::DynamixelHardware::on_deactivate(const rclcpp_lifecycle::State&)[m[K’:
+[2.362s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:335:35:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kprevious_state[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.362s]   335 |   [01;35m[Kconst rclcpp_lifecycle::State & previous_state[m[K)
+[2.362s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[2.366s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::return_type dynamixel_hardware_interface::DynamixelHardware::read(const rclcpp::Time&, const rclcpp::Duration&)[m[K’:
+[2.366s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:389:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktime[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.366s]   389 |   [01;35m[Kconst rclcpp::Time & time[m[K, const rclcpp::Duration & period)
+[2.366s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[2.366s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:389:55:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kperiod[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.366s]   389 |   const rclcpp::Time & time, [01;35m[Kconst rclcpp::Duration & period[m[K)
+[2.366s]       |                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[2.366s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::return_type dynamixel_hardware_interface::DynamixelHardware::write(const rclcpp::Time&, const rclcpp::Duration&)[m[K’:
+[2.366s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:439:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktime[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.366s]   439 |   [01;35m[Kconst rclcpp::Time & time[m[K, const rclcpp::Duration & period)
+[2.366s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[2.366s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:439:55:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kperiod[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.366s]   439 |   const rclcpp::Time & time, [01;35m[Kconst rclcpp::Duration & period[m[K)
+[2.367s]       |                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[2.389s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:[m[K In member function ‘[01m[Kvoid dynamixel_hardware_interface::DynamixelHardware::reboot_dxl_srv_callback(std::shared_ptr<dynamixel_interfaces::srv::RebootDxl_Request_<std::allocator<void> > >, std::shared_ptr<dynamixel_interfaces::srv::RebootDxl_Response_<std::allocator<void> > >)[m[K’:
+[2.389s] [01m[K/home/wu/colcon_ws/src/dynamixel_hardware_interface/src/dynamixel_hardware_interface.cpp:923:72:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.389s]   923 |   [01;35m[Kconst std::shared_ptr<dynamixel_interfaces::srv::RebootDxl::Request> request[m[K,
+[2.389s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[5.525s] [ 75%] [32m[1mLinking CXX shared library libdynamixel_hardware_interface.so[0m
+[5.860s] [100%] Built target dynamixel_hardware_interface
+[5.865s] Invoked command in '/home/wu/colcon_ws/build/dynamixel_hardware_interface' returned '0': CMAKE_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:/home/wu/colcon_ws/install/open_manipulator:/home/wu/colcon_ws/install/open_manipulator_x_teleop:/home/wu/colcon_ws/install/open_manipulator_x_playground:/home/wu/colcon_ws/install/open_manipulator_x_moveit_config:/home/wu/colcon_ws/install/open_manipulator_x_gui:/home/wu/colcon_ws/install/open_manipulator_x_bringup:/home/wu/colcon_ws/install/open_manipulator_x_description:/opt/ros/humble LD_LIBRARY_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces/lib:/home/wu/colcon_ws/install/open_manipulator_x_gui/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins /usr/bin/cmake --build /home/wu/colcon_ws/build/dynamixel_hardware_interface -- -j12 -l12
+[5.866s] Invoking command in '/home/wu/colcon_ws/build/dynamixel_hardware_interface': CMAKE_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:/home/wu/colcon_ws/install/open_manipulator:/home/wu/colcon_ws/install/open_manipulator_x_teleop:/home/wu/colcon_ws/install/open_manipulator_x_playground:/home/wu/colcon_ws/install/open_manipulator_x_moveit_config:/home/wu/colcon_ws/install/open_manipulator_x_gui:/home/wu/colcon_ws/install/open_manipulator_x_bringup:/home/wu/colcon_ws/install/open_manipulator_x_description:/opt/ros/humble LD_LIBRARY_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces/lib:/home/wu/colcon_ws/install/open_manipulator_x_gui/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins /usr/bin/cmake --install /home/wu/colcon_ws/build/dynamixel_hardware_interface
+[5.870s] -- Install configuration: ""
+[5.871s] -- Execute custom install script
+[5.871s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface//dynamixel_hardware_interface_plugin.xml
+[5.876s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/lib/libdynamixel_hardware_interface.so
+[5.883s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel.hpp
+[5.891s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp
+[5.899s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel_hardware_interface.hpp
+[5.904s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/include/dynamixel_hardware_interface/visibility_control.h
+[5.910s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/lib/dynamixel_hardware_interface//create_udev_rules
+[5.915s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface//scripts/99-manipulator-cdc.rules
+[5.919s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface//scripts/create_udev_rules
+[5.925s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/2xc430_w250.model
+[5.929s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/2xl430_w250.model
+[5.934s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/dynamixel.model
+[5.938s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/rh_p12_rn.model
+[5.942s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xc330_m181.model
+[5.947s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xc330_m288.model
+[5.951s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xc330_t181.model
+[5.956s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xc330_t288.model
+[5.960s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xc430_w150.model
+[5.965s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xc430_w240.model
+[5.969s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xd430_t210.model
+[5.973s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xd430_t350.model
+[5.978s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xd540_t150.model
+[5.982s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xd540_t270.model
+[5.987s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xh430_v210.model
+[5.991s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xh430_v350.model
+[5.995s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xh430_w210.model
+[6.000s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xh430_w350.model
+[6.005s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xh540_v150.model
+[6.010s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xh540_v270.model
+[6.014s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xh540_w150.model
+[6.019s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xh540_w270.model
+[6.023s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xl320.model
+[6.028s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xl330_m077.model
+[6.032s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xl330_m288.model
+[6.037s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xl430_w250.model
+[6.041s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xm430_w210.model
+[6.045s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xm430_w350.model
+[6.050s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xm540_w150.model
+[6.054s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xm540_w270.model
+[6.058s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xw430_t200.model
+[6.063s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xw430_t333.model
+[6.067s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xw540_h260.model
+[6.071s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xw540_t140.model
+[6.076s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/xw540_t260.model
+[6.081s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/ym070_210_a099.model
+[6.085s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/ym070_210_m001.model
+[6.090s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/ym070_210_r051.model
+[6.094s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/ym070_210_r099.model
+[6.098s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/ym080_220_m001.model
+[6.104s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/ym080_230_a099.model
+[6.109s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/ym080_230_r051.model
+[6.114s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/param/dxl_model/ym080_230_r099.model
+[6.119s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/environment/library_path.sh
+[6.124s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/environment/library_path.dsv
+[6.128s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/ament_index/resource_index/package_run_dependencies/dynamixel_hardware_interface
+[6.133s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/ament_index/resource_index/parent_prefix_path/dynamixel_hardware_interface
+[6.137s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/environment/ament_prefix_path.sh
+[6.142s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/environment/ament_prefix_path.dsv
+[6.146s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/environment/path.sh
+[6.150s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/environment/path.dsv
+[6.155s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/local_setup.bash
+[6.159s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/local_setup.sh
+[6.163s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/local_setup.zsh
+[6.168s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/local_setup.dsv
+[6.172s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/package.dsv
+[6.177s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/ament_index/resource_index/packages/dynamixel_hardware_interface
+[6.182s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/dynamixel_hardware_interface
+[6.186s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.191s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[6.196s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.201s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/cmake/dynamixel_hardware_interfaceConfig.cmake
+[6.206s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/cmake/dynamixel_hardware_interfaceConfig-version.cmake
+[6.212s] -- Symlinking: /home/wu/colcon_ws/install/dynamixel_hardware_interface/share/dynamixel_hardware_interface/package.xml
+[6.219s] Invoked command in '/home/wu/colcon_ws/build/dynamixel_hardware_interface' returned '0': CMAKE_PREFIX_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces:/home/wu/colcon_ws/install/open_manipulator:/home/wu/colcon_ws/install/open_manipulator_x_teleop:/home/wu/colcon_ws/install/open_manipulator_x_playground:/home/wu/colcon_ws/install/open_manipulator_x_moveit_config:/home/wu/colcon_ws/install/open_manipulator_x_gui:/home/wu/colcon_ws/install/open_manipulator_x_bringup:/home/wu/colcon_ws/install/open_manipulator_x_description:/opt/ros/humble LD_LIBRARY_PATH=/home/wu/colcon_ws/install/dynamixel_interfaces/lib:/home/wu/colcon_ws/install/open_manipulator_x_gui/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins /usr/bin/cmake --install /home/wu/colcon_ws/build/dynamixel_hardware_interface

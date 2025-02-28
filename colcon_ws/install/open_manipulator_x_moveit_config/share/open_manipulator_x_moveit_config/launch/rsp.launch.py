@@ -1,0 +1,1 @@
+/home/wu/colcon_ws/src/open_manipulator/open_manipulator_x_moveit_config/launch/rsp.launch.py

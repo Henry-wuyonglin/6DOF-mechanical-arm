@@ -1,0 +1,1 @@
+/home/wu/colcon_ws/src/open_manipulator/open_manipulator_x_bringup/launch/hardware.launch.py

@@ -1,0 +1,1 @@
+/home/wu/colcon_ws/build/open_manipulator_x_moveit_config/ament_cmake_core/open_manipulator_x_moveit_configConfig.cmake

@@ -1,0 +1,1 @@
+/home/wu/colcon_ws/src/dynamixel_hardware_interface/include/dynamixel_hardware_interface/dynamixel/dynamixel_info.hpp

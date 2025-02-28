@@ -1,0 +1,10 @@
+/home/wu/colcon_ws/build/open_manipulator_x_teleop/CMakeFiles/uninstall.dir
+/home/wu/colcon_ws/build/open_manipulator_x_teleop/CMakeFiles/open_manipulator_x_teleop_uninstall.dir
+/home/wu/colcon_ws/build/open_manipulator_x_teleop/CMakeFiles/open_manipulator_x_teleop.dir
+/home/wu/colcon_ws/build/open_manipulator_x_teleop/CMakeFiles/test.dir
+/home/wu/colcon_ws/build/open_manipulator_x_teleop/CMakeFiles/edit_cache.dir
+/home/wu/colcon_ws/build/open_manipulator_x_teleop/CMakeFiles/rebuild_cache.dir
+/home/wu/colcon_ws/build/open_manipulator_x_teleop/CMakeFiles/list_install_components.dir
+/home/wu/colcon_ws/build/open_manipulator_x_teleop/CMakeFiles/install.dir
+/home/wu/colcon_ws/build/open_manipulator_x_teleop/CMakeFiles/install/local.dir
+/home/wu/colcon_ws/build/open_manipulator_x_teleop/CMakeFiles/install/strip.dir

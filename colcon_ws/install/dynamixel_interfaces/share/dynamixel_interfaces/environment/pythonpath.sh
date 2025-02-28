@@ -1,0 +1,1 @@
+/home/wu/colcon_ws/build/dynamixel_interfaces/ament_cmake_environment_hooks/pythonpath.sh

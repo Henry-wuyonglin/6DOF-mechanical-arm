@@ -1,0 +1,1 @@
+/home/wu/colcon_ws/build/dynamixel_interfaces/rosidl_generator_py/dynamixel_interfaces/srv/_reboot_dxl.py
