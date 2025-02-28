@@ -1,6 +1,0 @@
-Invoking command in '/home/wu/colcon_ws/build/dynamixel_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/wu/colcon_ws/src/dynamixel_interfaces -DCMAKE_INSTALL_PREFIX=/home/wu/colcon_ws/install/dynamixel_interfaces
-Invoked command in '/home/wu/colcon_ws/build/dynamixel_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/wu/colcon_ws/src/dynamixel_interfaces -DCMAKE_INSTALL_PREFIX=/home/wu/colcon_ws/install/dynamixel_interfaces
-Invoking command in '/home/wu/colcon_ws/build/dynamixel_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/wu/colcon_ws/build/dynamixel_interfaces -- -j12 -l12
-Invoked command in '/home/wu/colcon_ws/build/dynamixel_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/wu/colcon_ws/build/dynamixel_interfaces -- -j12 -l12
-Invoking command in '/home/wu/colcon_ws/build/dynamixel_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/wu/colcon_ws/build/dynamixel_interfaces
-Invoked command in '/home/wu/colcon_ws/build/dynamixel_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/wu/colcon_ws/build/dynamixel_interfaces

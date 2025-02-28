@@ -1,1 +1,0 @@
-/home/wu/colcon_ws/src/open_manipulator/open_manipulator_x_gui/launch/open_manipulator_x_gui.launch.py

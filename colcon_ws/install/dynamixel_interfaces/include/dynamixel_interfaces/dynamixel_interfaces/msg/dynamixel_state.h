@@ -1,1 +1,0 @@
-/home/wu/colcon_ws/build/dynamixel_interfaces/rosidl_generator_c/dynamixel_interfaces/msg/dynamixel_state.h

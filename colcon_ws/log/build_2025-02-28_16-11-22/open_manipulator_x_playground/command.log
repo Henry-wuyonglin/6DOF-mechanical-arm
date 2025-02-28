@@ -1,4 +1,0 @@
-Invoking command in '/home/wu/colcon_ws/build/open_manipulator_x_playground': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/wu/colcon_ws/build/open_manipulator_x_playground -- -j12 -l12
-Invoked command in '/home/wu/colcon_ws/build/open_manipulator_x_playground' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/wu/colcon_ws/build/open_manipulator_x_playground -- -j12 -l12
-Invoking command in '/home/wu/colcon_ws/build/open_manipulator_x_playground': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/wu/colcon_ws/build/open_manipulator_x_playground
-Invoked command in '/home/wu/colcon_ws/build/open_manipulator_x_playground' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/wu/colcon_ws/build/open_manipulator_x_playground

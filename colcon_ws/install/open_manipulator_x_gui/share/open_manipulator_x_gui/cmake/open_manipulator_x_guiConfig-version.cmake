@@ -1,1 +1,0 @@
-/home/wu/colcon_ws/build/open_manipulator_x_gui/ament_cmake_core/open_manipulator_x_guiConfig-version.cmake
