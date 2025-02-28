@@ -1,6 +1,0 @@
-Invoking command in '/home/henry/colcon_ws/src/my_robot_description/build/my_robot_description': /usr/bin/cmake /home/henry/colcon_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/henry/colcon_ws/src/my_robot_description/install/my_robot_description
-Invoked command in '/home/henry/colcon_ws/src/my_robot_description/build/my_robot_description' returned '0': /usr/bin/cmake /home/henry/colcon_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/henry/colcon_ws/src/my_robot_description/install/my_robot_description
-Invoking command in '/home/henry/colcon_ws/src/my_robot_description/build/my_robot_description': /usr/bin/cmake --build /home/henry/colcon_ws/src/my_robot_description/build/my_robot_description -- -j32 -l32
-Invoked command in '/home/henry/colcon_ws/src/my_robot_description/build/my_robot_description' returned '0': /usr/bin/cmake --build /home/henry/colcon_ws/src/my_robot_description/build/my_robot_description -- -j32 -l32
-Invoking command in '/home/henry/colcon_ws/src/my_robot_description/build/my_robot_description': /usr/bin/cmake --install /home/henry/colcon_ws/src/my_robot_description/build/my_robot_description
-Invoked command in '/home/henry/colcon_ws/src/my_robot_description/build/my_robot_description' returned '0': /usr/bin/cmake --install /home/henry/colcon_ws/src/my_robot_description/build/my_robot_description
